@@ -15,7 +15,7 @@ _I am a highly motivated and hardworking student with a great passion in sustain
 
 **Education**
 
-| Years| Company  |
+| Years| Institution  |
 | --- | ---  |
 | 2018-now |  MSc. (cand.) in Sustainable Development at KU Leuven|
 | 2010-2014 | BSc. in Urban and Regional Planning at Bandung Institute of Technology|
