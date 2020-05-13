@@ -23,11 +23,11 @@ _I am a highly motivated and hardworking student with a great passion in sustain
 **Skills**
 | Skills| Level  |
 | --- | ---  |
-| Microsoft Office | :star: :star: :star: :star:|
-| ArcGIS, QGIS | :star: :star: :star:|
-| SPSS | :star: :star: :star::star:|
-| HTML | :star: :star:|
-| CSS | :star: :star:|
+| Microsoft Office | Advanced|
+| ArcGIS, QGIS | Intermediate|
+| SPSS | Intermediate|
+| HTML | Begineer|
+| CSS | Begineer|
 
 **Catch me on social media**
 
