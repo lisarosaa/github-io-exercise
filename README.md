@@ -21,13 +21,14 @@ _I am a highly motivated and hardworking student with a great passion in sustain
 | 2010-2014 | BSc. in Urban and Regional Planning at Bandung Institute of Technology|
 
 **Skills**
-| Skills| Level  |
+| Skill| Level  |
 | --- | ---  |
-| Microsoft Office | Advanced|
+| Microsoft Office |  Advanced|
 | ArcGIS, QGIS | Intermediate|
-| SPSS | Intermediate|
+| SPSS, Stata |  Intermediate|
 | HTML | Begineer|
-| CSS | Begineer|
+| CSS |  Begineer|
+
 
 **Catch me on social media**
 
