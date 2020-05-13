@@ -22,7 +22,7 @@ _I am a highly motivated and hardworking student with a great passion in sustain
 
 **Skills**
 | Skill| Level  |
-| --- | ---  |
+| ------ | ------  |
 | Microsoft Office |  Advanced|
 | ArcGIS, QGIS | Intermediate|
 | SPSS, Stata |  Intermediate|
