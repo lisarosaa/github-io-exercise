@@ -1,33 +1,33 @@
 # Lisarosaa's Pages
 
-## About Me
+**About Me**
 
 ![63754597](https://user-images.githubusercontent.com/63754597/81810208-de58a700-9522-11ea-882d-b85b50857469.jpeg)
 
 _I am a highly motivated and hardworking student with a great passion in sustainability and urban development topics. I am currently studying master degree in Sustainable Development at [KU Leuven](https://susdev.eu/) and  learning coding schools from [Hack Your Future](https://hackyourfuture.be/)._
 
-## :briefcase: Work Experiences
+**Work Experiences**
 
 | Years| Company  |
 | --- | ---  |
 | 2018 |  Indonesian ministry of national development planning (BAPPENAS) as Urban Planning Specialist|
 | 2015-2017 | Ministry of Public works and housing (MPWH) as Urban Planning Specialist|
 
-## :closed_book: Education
+**Education**
 
 | Years| Company  |
 | --- | ---  |
 | 2018-now |  MSc. (cand.) in Sustainable Development at KU Leuven|
 | 2010-2014 | BSc. in Urban and Regional Planning at Bandung Institute of Technology|
 
-## :chart_with_upwards_trend: Skills
+**Skills**
 | Skills| Level  |
 | --- | ---  |
 | Microsoft Office | :star: :star: :star: :star:|
 | ArcGIS, QGIS | :star: :star: :star:|
-| SPSS | :star: :star: :star::star: |
-| HTML | :star: :star: |
-| CSS | :star: :star: |
+| SPSS | :star: :star: :star::star:|
+| HTML | :star: :star:|
+| CSS | :star: :star:|
 
 **Catch me on social media**
 
